@@ -17,3 +17,4 @@ LCSC BOM: https://github.com/abhinav937/RP2040-Dev-Board/blob/main/RP2040_LCSC_B
 I got my PCBs manufactured from [Aisler](aisler.net). <br /> 
 
 Rev2 has lot of inspiration from michael rangen's PCB layout. Also I've used KiBuzzard for silkscreen texts, Which I personally like very much.
+#### Refer my [documentation](documentation) for full information.
