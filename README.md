@@ -8,7 +8,7 @@ Layer 2: Gnd <br />
 Layer 3: Gnd <br /> 
 Layer 4: Back Cu <br /> 
 
-Initially my designs had inner layers as gnd and 3.3V, I got some netlist parity when I uploaded to my PCB manufacturer. But KiCad was'nt showing any errors in DRC, So I made both layers as Gnd.
+Initially my designs had inner layers as gnd and 3.3V, I got some netlist parity when I uploaded to my PCB manufacturer. But KiCad wasn't showing any errors in DRC, So I made both layers as Gnd.
 #### Manufacturing
 All components were purchased in [lcsc.com](lcsc.com) except RP2040, Which I purchased locally for 80Rs(~$1)/μC from robu.in. <br /> 
 
